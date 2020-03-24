@@ -2,24 +2,24 @@ Data science student and software engineer intern. Open minded learner and passi
 
 ---
 ## Experience
-### Software Engineer Intern, National Australia Bank
+### Software Engineer Intern, *National Australia Bank*
 *July 2019 - Current*
 
 Responsible for monitoring and insights of an enterprise application. Assisted with uplifting legacy applications and services to cloud. 
 
-### Event Staff, Marvel Stadium
+### Event Staff, *Marvel Stadium*
 *March 2019 - November 2019*
 
 Providing exceptional customer service to all patrons to ensure a positive and memorable experience at the stadium.
 
 ---
 ## Education
-### Bachelor of Science (Data Science), The University of Melbourne
+### Bachelor of Science (Data Science), *The University of Melbourne*
 *2019 - 2022*
 
 Clubs: Computer and Information Systems Students Association (CISSA)
 
-### Associate Degree of Information Technology, RMIT University
+### Associate Degree of Information Technology, *RMIT University*
 *2017 - 2018*
 
 GPA: 3.4
