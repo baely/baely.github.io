@@ -1,4 +1,4 @@
-I am currently a Software Engineer Intern at National Australia Bank and I am also pursuing a Bachelor of Science (Data Science) from The University of Melbourne. I am interested in all things data. I'm curious about what we can unlock by investigating and analysing data, and in that nature, the whole process from data collection to wherever it will end up.
+I am currently a Software Engineer Intern at National Australia Bank and I am also pursuing a Bachelor of Science (Data Science) from The University of Melbourne. Feel free to check out my [resume](/resume). I am interested in all things data. I'm curious about what we can unlock by investigating and analysing data, and in that nature, the whole process from data collection to wherever it will end up.
 
 I have a solid foundation of overall programming knowledge, having worked on many work and [personal projects](//github.com/baely). Many of my most recent projects are written in Python, however I have experience in C#, C, Java, and web focused languages such as SQL, JS, PHP, CSS.
 
