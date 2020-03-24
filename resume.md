@@ -4,6 +4,7 @@ Data science student and software engineer intern. Open minded learner and passi
 ## Experience
 ### Software Engineer Intern, National Australia Bank
 *July 2019 - Current*
+
 Responsible for monitoring and insights of an enterprise application. Assisted with uplifting legacy applications and services to cloud. 
 
 ### Event Staff, Marvel Stadium
