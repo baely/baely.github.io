@@ -1,55 +1,54 @@
 Data science student and software engineer intern. Open minded learner and passionate about all things tech. Thrives in fast paced, team oriented environments with experience in agile methodology. Motivated on independent tasks, meeting business requirements and KPIs.
 
 ---
-## Experience
-### Software Engineer Intern, *National Australia Bank*
-*July 2019 - Current*
-
-Responsible for monitoring and insights of an enterprise application. Assisted with uplifting legacy applications and services to cloud. 
-
-### Event Staff, *Marvel Stadium*
-*March 2019 - November 2019*
-
-Providing exceptional customer service to all patrons to ensure a positive and memorable experience at the stadium.
-
----
 ## Education
-### Bachelor of Science (Data Science), *The University of Melbourne*
-*2019 - 2022*
+### Bachelor of Science (Computing and Software Systems), *The University of Melbourne*
+*2019 - 2023*
 
-Clubs: Computer and Information Systems Students Association (CISSA)
+Activites: Education Officer in Computer and Information Systems Students Association (2020)
 
 ### Associate Degree of Information Technology, *RMIT University*
 *2017 - 2018*
 
 GPA: 3.4
-Activities: University Ambassador, Student Representative
+Activities: Peer Mentor, Student Represetnative, University Ambassador
 
 ---
+## Experience
+### Software Engineer Team Member, *National Australia Bank (acquired from NAB)*
+*December 2020 - Current*
+
+Developed multiple SQL scripts for Microsoft SQL Server and Oracle DB to be used for business report and analytics, significantly reducing the burden on business team members to manually extract data from within the applications.
+
+### Software Engineer Intern, *National Australia Bank*
+*July 2019 - November 2020*
+
+Contributed to the  lift and shift project of an interanl facing commissions software, through migration of business logic written in VBA to C#, and developing CICD pipelines in Azure DevOps.
+
+---
+## Volunteer Experience
+### SoftwareEngineer, Swap Cup
+*August 2020 - Present*
+
+- Contribued to the development of the Swap Cup backend and identity/authorisation services built in Chalice on AWS Lambda
+- Built and maintained ETL pipelines that feed data from DynamoDB to Postgres DB.
+- Managed the AWS environment and lead the team on general clouds tasks.
+
 ## Personal Projects
-### [baely.github.io](//github.com/baely/baely.github.io)
-Built this website and [theme](//github.com/baely/baely-theme) using mainly **HTML** and **CSS**.
-
-### [Fuel Collection](//github.com/baely/fuel-collection)
-Created an automated script in **Python** to collect and clean fuel pricing data from around Victoria. This was ported from my original version in **PHP**.
-
 ### [Tennis Match Modelling](//github.com/baely/Tennis2020)
 Wrote an algorithm in **Python** based on the Elo ranking system to predict future tennis matches. Achieved an accuracy of 85% for the 2020 Australian Open.
 
+### [Stock Market Simulation](//github.com/baely/Market)
+Stock market simulation in Python with efficient execution of orders
+
+### [Sudoku Solver](//github.com/baely/SudokuSolver)
+Sudoku solver algorithm written in Python then ported to C
+
 ---
-## Skills
-* Cloud (Azure, AWS)
-* Full-stack
-* Web dev
-* Source control
+## Key Skills
 * Python
-* C# (.NET)
-* C
 * SQL
-* Java
-* PHP
-* HTML/XML
-* CSS & JS
+* Cloud (Azure, AWS)
 
 ---
 ## Activities
