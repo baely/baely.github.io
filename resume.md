@@ -17,7 +17,6 @@ Activities: Peer Mentor, Student Represetnative, University Ambassador
 ## Experience
 ### Loan Market Group
 #### Team Member Engineer, *March 2021 - Current*
-*March 2020 - Current*
 
 - Developed multiple SQL scripts on Microsoft SQL Server and Oracle DB
 - Contributed to local DB replication to ease local development
@@ -25,7 +24,6 @@ Activities: Peer Mentor, Student Represetnative, University Ambassador
 ### National Australia Bank
 #### Team Member Engineer, *December 2010 - February 2021*
 #### Software Engineer Inter, *July 2019 - November 2020*
-*July 2019 - November 2020*
 
 - Contributed to the lift and shift project of legacy VBA code to Azure cloud based .NET
 - Developed automated CICD pipelines in Azure DevOps
