@@ -3,7 +3,7 @@ Data science student and software engineer intern. Open minded learner and passi
 ---
 ## Education
 ### Bachelor of Science (Computing and Software Systems), *The University of Melbourne*
-*2019 - 2023*
+*2019 - 2022*
 
 Activites: Education Officer in Computer and Information Systems Students Association (2020)
 
@@ -15,20 +15,27 @@ Activities: Peer Mentor, Student Represetnative, University Ambassador
 
 ---
 ## Experience
-### Software Engineer Team Member, *National Australia Bank (acquired from NAB)*
-*December 2020 - Current*
+### Loan Market Group
+#### Team Member Engineer, *March 2021 - Current*
+*March 2020 - Current*
 
-Developed multiple SQL scripts for Microsoft SQL Server and Oracle DB to be used for business report and analytics, significantly reducing the burden on business team members to manually extract data from within the applications.
+- Developed multiple SQL scripts on Microsoft SQL Server and Oracle DB
+- Contributed to local DB replication to ease local development
 
-### Software Engineer Intern, *National Australia Bank*
+### National Australia Bank
+#### Team Member Engineer, *December 2010 - February 2021*
+#### Software Engineer Inter, *July 2019 - November 2020*
 *July 2019 - November 2020*
 
-Contributed to the  lift and shift project of an interanl facing commissions software, through migration of business logic written in VBA to C#, and developing CICD pipelines in Azure DevOps.
+- Contributed to the lift and shift project of legacy VBA code to Azure cloud based .NET
+- Developed automated CICD pipelines in Azure DevOps
+- End-to-end development of business facing reports automated through SSRS
+
 
 ---
 ## Volunteer Experience
-### SoftwareEngineer, Swap Cup
-*August 2020 - Present*
+### Swap Cup
+#### Software Engineer, *August 2020 - March 2021*
 
 - Contribued to the development of the Swap Cup backend and identity/authorisation services built in Chalice on AWS Lambda
 - Built and maintained ETL pipelines that feed data from DynamoDB to Postgres DB.
