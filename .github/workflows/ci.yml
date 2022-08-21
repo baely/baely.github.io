@@ -27,4 +27,3 @@ jobs:
           ls -al
           git add --force public/*
           git commit -m "Generated site"
-          git push
