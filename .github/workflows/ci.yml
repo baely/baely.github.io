@@ -13,3 +13,9 @@ jobs:
         uses: actions/checkout@v3
       - name: "Build"
         run: docker-compose up gen
+      - name: "Commit"
+        run: |
+          git config --global user.name baely
+          git config --global user.email bailey.butler.234@gmail.com
+          git commit -m "Generated site"
+          git push
