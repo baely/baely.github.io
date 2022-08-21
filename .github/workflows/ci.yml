@@ -21,3 +21,7 @@ jobs:
         run: |
           cd site
           hugo --minify
+          git config --global user.name baely
+          git config --global user.email bailey.butler.234@gmail.com
+          git commit -am "Generated site"
+          git push
