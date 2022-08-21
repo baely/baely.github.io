@@ -1,0 +1,6 @@
+[submodule "static/themes/hermit"]
+	path = static/themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "static/themes/PaperMod"]
+	path = static/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
