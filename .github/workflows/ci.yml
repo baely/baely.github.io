@@ -21,5 +21,5 @@ jobs:
         run: |
           git config --global user.name baely
           git config --global user.email bailey.butler.234@gmail.com
-          git commit -m "Generated site"
+          git commit -am "Generated site"
           git push
