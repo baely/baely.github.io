@@ -13,7 +13,7 @@ menu:
 params:
     profileMode:
         enabled: true
-        subtitle: "seattle, wa & melbourne, vic"
+        subtitle: "melbourne, vic"
         imageUrl: "selfie.png"
         imageHeight: 150
         imageWidth: 150
