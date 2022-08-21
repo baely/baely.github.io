@@ -36,4 +36,4 @@ jobs:
         uses: "google-github-actions/upload-cloud-storage@v0"
         with:
           path: "site/public"
-          destination: baileybutlerstatic
+          destination: baileybutlersite
