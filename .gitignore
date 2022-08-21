@@ -1,3 +1,4 @@
 .idea/*
 site/public/*
+site/themes/*
 *.hugo_build.lock
