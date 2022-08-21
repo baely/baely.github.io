@@ -1,0 +1,15 @@
+services:
+  gen:
+    image: klakegg/hugo
+    volumes:
+      - "./site:/src"
+    ports:
+      - 1313:1313
+
+  server:
+    image: klakegg/hugo
+    command: server
+    volumes:
+      - "./site:/src"
+    ports:
+      - 1313:1313

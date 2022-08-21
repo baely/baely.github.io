@@ -1,0 +1,27 @@
+baseURL: "https://baileybutler.com.au"
+languageCode: "en-au"
+title: "Bailey Butler"
+theme: "PaperMod"
+
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+
+params:
+    profileMode:
+        enabled: true
+        subtitle: "seattle, wa & melbourne, vic"
+        imageUrl: "selfie.png"
+        imageHeight: 150
+        imageWidth: 150
+
+    socialIcons:
+        - name: "instagram"
+          url: "https://instagram.com/bae1y"
+        - name: "github"
+          url: "https://github.com/baely"
+        - name: "linkedin"
+          url: "https://linkedin.com/in/baileybutler1"
