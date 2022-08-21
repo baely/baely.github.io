@@ -23,6 +23,8 @@ jobs:
           hugo --minify
           git config --global user.name baely
           git config --global user.email bailey.butler.234@gmail.com
+          pwd
+          ls -al
           git add --force site/public/*
           git commit -m "Generated site"
           git push
