@@ -3,20 +3,22 @@ languageCode: "en-au"
 title: "Bailey Butler"
 theme: "PaperMod"
 
-menu:
-    main:
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 10
-
 params:
+    defaultTheme: dark
+    disableThemeToggle: true
+#    ShowReadingTime: true
     profileMode:
         enabled: true
-        subtitle: "melbourne, vic"
-        imageUrl: "selfie.png"
-        imageHeight: 150
-        imageWidth: 150
+        title: "Bailey Butler"
+#        subtitle: "melbourne, vic"
+#        imageUrl: "selfie.png"
+#        imageHeight: 150
+#        imageWidth: 150
+        buttons:
+            - name: "Programming"
+              url: "/programming"
+            - name: "Film"
+              url: "/film"
 
     socialIcons:
         - name: "instagram"

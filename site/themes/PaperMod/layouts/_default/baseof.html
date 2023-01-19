@@ -13,7 +13,10 @@
 {{- print " dark" }}
 {{- end -}}
 " id="top">
+    {{- if (and site.Params.profileMode.enabled .IsHome) }}
+    {{- else }}
     {{- partialCached "header.html" . .Page -}}
+    {{- end }}
     <main class="main">
         {{- block "main" . }}{{ end }}
     </main>
