@@ -2,7 +2,7 @@
 title: "Motion"
 ---
 
-film: Agfa Vista 200, Ilford HP5 400+, Ilford FP4+ 125, FND UMI 800
+film: Ilford HP5 400+, Ilford FP4+ 125
 
 camera: Ricoh RZ-735
 
