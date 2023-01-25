@@ -4,7 +4,8 @@ title: "Bailey Butler"
 theme: "PaperMod"
 
 params:
-    defaultTheme: dark
+    ShowBreadCrumbs: true
+    defaultTheme: light
     disableThemeToggle: true
 #    ShowReadingTime: true
     profileMode:
